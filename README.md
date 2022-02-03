@@ -2,11 +2,12 @@
 
 <br>
 
-<span>Sobre o Projeto</span>
+<span>Sobre o Projeto:</span>
 
-<br>
-
-<span>Neste foram feitos alguns Endpoints Base que podem ser extendidos da forma mais adequada para seu contexto.</span>
+<p>
+   Foi criada uma API REST utilizando NODE + EXPRESS para um CRUD de usuários bem simples. <br>
+   Neste projeto foram feitos alguns Endpoints Base que podem ser extendidos da forma mais adequada para seu contexto conforme mostrado abaixo.
+</p>
 
 São eles:
 <br>
