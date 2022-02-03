@@ -9,20 +9,21 @@
 <span>Neste foram feitos alguns Endpoints Base que podem ser extendidos da forma mais adequada para seu contexto.</span>
 
 São eles:
-<hr>
 <br>
 
 <h2>Usuários</h2>
-<hr>
 
-    GET /users
-    GET /users/:uuid
-    POST /users
-    PUT /users/:uuid
-    DELETE /users/:uuid
+<ol>
+   <li> GET /users </li>
+   <li> GET /users/:uuid </li>
+   <li> POST /users </li>
+   <li> PUT /users/:uuid </li>
+   <li> DELETE /users/:uuid </li>
+</ol>
 
 <h2>Autenticação</h2>
-<hr>
 
-    POST /token
-    POST /token/validate
+<ul>
+   <li> POST /token </li>
+   <li> POST /token/validate </li>
+</ul>
